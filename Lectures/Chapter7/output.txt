@@ -1,0 +1,7 @@
+Welcome to  CSCE1030
+int = 20	character = *	double = 12.66	string = This and that
+Welcome to  CSCE1030, again
+int = 20	character = *
+	double = 12.66	string = This and that
+Welcome to  CSCE1030, again
+int = 20	character = *	double = 12.66	string = This and that
